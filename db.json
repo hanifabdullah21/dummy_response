@@ -1,4 +1,26 @@
 {
+    "objek": {
+        "success": true,
+        "error": null,
+        "data": {
+            "nomor": 1,
+            "perihal": "xxx"
+        }
+    },
+    "list": {
+        "success": true,
+        "error": null,
+        "data": [
+            {
+                "nomor": 2,
+                "perihal": "yyy"
+            },
+            {
+                "nomor": 1,
+                "perihal": "xxx"
+            }
+        ]
+    },
     "posts": [
         {
             "id": 1,
