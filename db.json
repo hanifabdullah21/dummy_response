@@ -10,59 +10,6 @@
              "total_jemaat": 6
         }
     },
-    "rekap_jemaat": {
-        "status": "success",
-        "data": [
-            {
-                "id": 1,
-                "nama": "tes A",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "hidup"
-            },
-                {
-                "id": 1,
-                "nama": "tes B",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "hidup"
-            },
-            {
-                "id": 1,
-                "nama": "tes C",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "mati"
-            },
-            {
-                "id": 1,
-                "nama": "tes D",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "hidup"
-            },
-            {
-                "id": 1,
-                "nama": "tes E",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "meninggal"
-            },
-            {
-                "id": 1,
-                "nama": "tes F",
-                "alamat": "",
-                "status_jemaat": "Jemaat Umum",
-                "tanggal": "2024-01-23 12:56:00",
-                "status": "pindah"
-            },
-        ],
-    },
     "comments": [
         {
             "id": 1,
@@ -74,13 +21,5 @@
             "body": "some comment",
             "postId": 1
         }
-    ],
-    "profile": {
-         "jml_bapak": 0,
-         "jml_ibu": 0,
-         "jml_remaja_cowo": 0,
-         "jml_remaja_cewe": 0,
-         "sekolah_minggu": 0,
-         "total_jemaat": 0
-    }
+    ]
 }
