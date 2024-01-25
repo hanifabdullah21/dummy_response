@@ -1,12 +1,4 @@
 {
-    "objek": {
-        "success": true,
-        "error": null,
-        "data": {
-            "nomor": 1,
-            "perihal": "xxx"
-        }
-    },
     "list": {
         "success": true,
         "error": null,
