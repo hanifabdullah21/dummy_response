@@ -39,7 +39,12 @@
             "postId": 1
         }
     ],
-    "profile": {
-        "name": "typicode"
+    "statistik": {
+         "jml_bapak": 0,
+         "jml_ibu": 0,
+         "jml_remaja_cowo": 0,
+         "jml_remaja_cewe": 0,
+         "sekolah_minggu": 0,
+         "total_jemaat": 0
     }
 }
