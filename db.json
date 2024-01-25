@@ -71,35 +71,35 @@
                 "nama": "tes A",
                 "nama_kegiatan": "Baptis Anak",
                 "pelayan": "Pelayan A",
-                "tanggal": "2024-01-23 12:56:00",
+                "tanggal": "2024-01-23 12:56:00"
             },
             {
                 "id": 1,
                 "nama": "tes B",
                 "nama_kegiatan": "Baptis Dewasa",
                 "pelayan": "Pelayan B",
-                "tanggal": "2024-01-23 12:56:00",
+                "tanggal": "2024-01-23 12:56:00"
             },
             {
                 "id": 1,
                 "nama": "tes C",
                 "nama_kegiatan": "Pernikahan",
                 "pelayan": "Pelayan C",
-                "tanggal": "2024-01-23 12:56:00",
+                "tanggal": "2024-01-23 12:56:00"
             },
             {
                 "id": 1,
                 "nama": "tes D",
                 "nama_kegiatan": "Pernikahan",
                 "pelayan": "Pelayan D",
-                "tanggal": "2024-01-23 12:56:00",
+                "tanggal": "2024-01-23 12:56:00"
             },
             {
                 "id": 1,
                 "nama": "tes E",
                 "nama_kegiatan": "Baptis Dewasa",
                 "pelayan": "Pelayan E",
-                "tanggal": "2024-01-23 12:56:00",
+                "tanggal": "2024-01-23 12:56:00"
             }
         ]
     },
