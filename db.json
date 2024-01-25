@@ -1,12 +1,4 @@
 {
-    "statistik": {
-        "jml_bapak": 1,
-        "jml_ibu": 2,
-        "jml_remaja_cowo": 3,
-        "jml_remaja_cewe": 4,
-        "sekolah_minggu": 5,
-        "total_jemaat": 6
-    },
     "list": {
         "success": true,
         "error": null,
@@ -49,5 +41,5 @@
     ],
     "profile": {
         "name": "typicode"
-    },
+    }
 }
