@@ -1,17 +1,11 @@
 {
     "list": {
-        "success": true,
-        "error": null,
-        "data": [
-            {
-                "nomor": 2,
-                "perihal": "yyy"
-            },
-            {
-                "nomor": 1,
-                "perihal": "xxx"
-            }
-        ]
+        "jml_bapak": 0,
+         "jml_ibu": 0,
+         "jml_remaja_cowo": 0,
+         "jml_remaja_cewe": 0,
+         "sekolah_minggu": 0,
+         "total_jemaat": 0
     },
     "posts": [
         {
