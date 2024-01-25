@@ -10,8 +10,7 @@
              "total_jemaat": 6
         }
     },
-    {
-  "rekap_jemaat": {
+    "rekap_jemaat": {
         "status": "success",
         "data": [
             {
@@ -63,8 +62,7 @@
                 "status": "pindah"
             }
         ]
-    }
-},
+    },
     "comments": [
         {
             "id": 1,
