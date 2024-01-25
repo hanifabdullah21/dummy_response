@@ -1,11 +1,11 @@
 {
     "statistik": {
-        "jml_bapak": 0,
-         "jml_ibu": 0,
-         "jml_remaja_cowo": 0,
-         "jml_remaja_cewe": 0,
-         "sekolah_minggu": 0,
-         "total_jemaat": 0
+        "jml_bapak": 1,
+         "jml_ibu": 2,
+         "jml_remaja_cowo": 3,
+         "jml_remaja_cewe": 4,
+         "sekolah_minggu": 5,
+         "total_jemaat": 6
     },
     "posts": [
         {
