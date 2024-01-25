@@ -63,16 +63,74 @@
             }
         ]
     },
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ]
+    "rekap_kegiatan": {
+        "status": "success",
+        "data": [
+            {
+                "id": 1,
+                "nama": "tes A",
+                "nama_kegiatan": "Baptis Anak",
+                "pelayan": "Pelayan A",
+                "tanggal": "2024-01-23 12:56:00",
+            },
+            {
+                "id": 1,
+                "nama": "tes B",
+                "nama_kegiatan": "Baptis Dewasa",
+                "pelayan": "Pelayan B",
+                "tanggal": "2024-01-23 12:56:00",
+            },
+            {
+                "id": 1,
+                "nama": "tes C",
+                "nama_kegiatan": "Pernikahan",
+                "pelayan": "Pelayan C",
+                "tanggal": "2024-01-23 12:56:00",
+            },
+            {
+                "id": 1,
+                "nama": "tes D",
+                "nama_kegiatan": "Pernikahan",
+                "pelayan": "Pelayan D",
+                "tanggal": "2024-01-23 12:56:00",
+            },
+            {
+                "id": 1,
+                "nama": "tes E",
+                "nama_kegiatan": "Baptis Dewasa",
+                "pelayan": "Pelayan E",
+                "tanggal": "2024-01-23 12:56:00",
+            },
+        ]
+    },
+    "staf": {
+        "status": "success",
+        "data": [
+            {
+                "id": 1,
+                "nama": "tes A",
+                "jabatan": "Baptis Anak",
+            },
+            {
+                "id": 1,
+                "nama": "tes A",
+                "jabatan": "Baptis Anak",
+            },
+            {
+                "id": 1,
+                "nama": "Tes G",
+                "jabatan": "Pujian"
+            },
+            {
+                "id": 2,
+                "nama": "Tes B",
+                "jabatan": "Baptis Anak"
+            },
+            {
+                "id": 3,
+                "nama": "Tes J",
+                "jabatan": "Pelayanan Remaja"
+            }
+        ]
+    }
 }
