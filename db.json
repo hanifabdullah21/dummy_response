@@ -1,26 +1,68 @@
 {
     "statistik": {
-        "jml_bapak": 1,
-         "jml_ibu": 2,
-         "jml_remaja_cowo": 3,
-         "jml_remaja_cewe": 4,
-         "sekolah_minggu": 5,
-         "total_jemaat": 6
-    },
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
+        "status": "success",
+        "data": {
+            "jml_bapak": 1,
+             "jml_ibu": 2,
+             "jml_remaja_cowo": 3,
+             "jml_remaja_cewe": 4,
+             "sekolah_minggu": 5,
+             "total_jemaat": 6
         }
-    ],
+    },
+    "rekap_jemaat": {
+        "status": "success",
+        "data": [
+            {
+                "id": 1,
+                "nama": "tes A",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "hidup"
+            },
+                {
+                "id": 1,
+                "nama": "tes B",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "hidup"
+            },
+            {
+                "id": 1,
+                "nama": "tes C",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "mati"
+            },
+            {
+                "id": 1,
+                "nama": "tes D",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "hidup"
+            },
+            {
+                "id": 1,
+                "nama": "tes E",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "meninggal"
+            },
+            {
+                "id": 1,
+                "nama": "tes F",
+                "alamat": "",
+                "status_jemaat": "Jemaat Umum",
+                "tanggal": "2024-01-23 12:56:00",
+                "status": "pindah"
+            },
+        ],
+    },
     "comments": [
         {
             "id": 1,
